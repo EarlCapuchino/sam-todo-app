@@ -1,1 +1,1 @@
-this is a merge conflict
+i am writing a new code
